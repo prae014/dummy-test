@@ -1,4 +1,4 @@
-file before doing other stuff 
+file before doing other (modified this line to create conflict! hehe)
 no change 
 
 
